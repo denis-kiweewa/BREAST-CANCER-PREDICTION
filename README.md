@@ -35,7 +35,7 @@ To run this project, you need Python 3.7+ and the following libraries:
 
 2.	Navigate to the project directory:
 
-3.	3. Run the Google Colab notebook:
+3.	 Run the Google Colab notebook:
 
 
 ## Methodology
@@ -91,6 +91,7 @@ weighted avg 0.99 0.99 0.99 114
 
 ### Confusion Matrix
 [[42 1]
+
  [ 0 71]]
 
 ### Interpretation
